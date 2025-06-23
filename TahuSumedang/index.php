@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kota Sumedang - Beranda</title>
-    <link href="CSS/style.css" rel="stylesheet">
+   <link href="css/style.css" rel="stylesheet">
     <link href="CSS/index.css" rel="stylesheet">
     <script src="js/script.js"></script>
 </head>
